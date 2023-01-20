@@ -13,6 +13,7 @@ Endpoints:
 * /persons/{id} (DELETE)
 * /persons/{personId}/addresses (GET)
 <br>
+
 * /addresses (GET)
 * /addresses (POST)
 * /addresses/{id} (GET)
